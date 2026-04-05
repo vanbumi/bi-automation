@@ -18,9 +18,19 @@ This chart was generated automatically by the pipeline, featuring high-DPI rende
 
 ![Automated Revenue Report](revenue_report.png)
 
-> **Metric Insight:** The system identifies top-performing products and revenue leaks in real-time, reducing manual reporting time by approximately **90%**.
+### Total Revenue $23229
+
+#### Detail per Produk:
+
+##### Product
+- AI Consultant    8351
+- Prompt Pack      6926
+- Video Script     7952
+- Name: Revenue, dtype: int64
 
 ---
+
+> **Metric Insight:** The system identifies top-performing products and revenue leaks in real-time, reducing manual reporting time by approximately **90%**.
 
 ## 🛠️ Tech Stack & Tools
 * **Language:** Python 3.x
